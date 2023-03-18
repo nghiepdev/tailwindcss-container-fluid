@@ -1,0 +1,26 @@
+{
+  "name": "tailwindcss-container-fluid",
+  "version": "0.0.1",
+  "description": "A plugin that makes a fluid container",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {},
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  },
+  "peerDependencies": {
+    "tailwindcss": ">=2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghiepdev/tailwindcss-container-fluid.git"
+  },
+  "author": "Nghiep<me@nghiep.dev>",
+  "bugs": {
+    "url": "https://github.com/nghiepdev/tailwindcss-container-fluid/issues"
+  },
+  "license": "MIT"
+}
